@@ -5,24 +5,24 @@ An 8-bit Arithmetic Logic Unit (ALU) built in Verilog HDL. Supports basic arithm
 
 Features
 
-Arithmetic: Add, Subtract, Increment, Decrement
+-Arithmetic: Add, Subtract, Increment, Decrement
 
-Logic: AND, OR, XOR, NOT
+-Logic: AND, OR, XOR, NOT
 
-Simulation in Xilinx Vivado
+-Simulation in Xilinx Vivado
 
-FPGA implementation on Basys3
+-FPGA implementation on Basys3
 
 Tech Stack
 
-Verilog HDL
+-Verilog HDL
 
-Xilinx Vivado
+-Xilinx Vivado
 
-Basys3 FPGA
+-Basys3 FPGA
 
 Applications
 
-Digital system design
+-Digital system design
 
-Processor datapath learning
+-Processor datapath learning
